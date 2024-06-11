@@ -58,26 +58,26 @@ Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Requirements Engineering is the process of defining, documenting, and maintaining the requirements for a software system.
-It involves several steps:
-Elicitation-Gathering requirements from stakeholders through interviews, surveys, etc.
-Analysis-Understanding and refining the requirements.
-Specification-Documenting the requirements in a clear and precise manner.
-Validation-Ensuring the requirements meet the needs of stakeholders.
-Management-Handling changes to requirements over time.
+- It involves several steps:
+- Elicitation-Gathering requirements from stakeholders through interviews, surveys, etc.
+- Analysis-Understanding and refining the requirements.
+- Specification-Documenting the requirements in a clear and precise manner.
+- Validation-Ensuring the requirements meet the needs of stakeholders.
+- Management-Handling changes to requirements over time.
 
 Importance:
-Ensures the final product meets user needs.
-Helps in estimating costs and timelines accurately.
-Reduces the risk of project failure due to misunderstood requirements.
+- Ensures the final product meets user needs.
+- Helps in estimating costs and timelines accurately.
+- Reduces the risk of project failure due to misunderstood requirements.
 
 Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Modularity is the design principle that divides a system into smaller, self-contained units or modules.
 It advantages with respect to:
-Maintainability is that it provides an easier way to update or fix parts of the system.
-Scalability it provides for new features that can be added without impacting the entire system.
-Reusability, modules can be reused across different projects.
+- Maintainability is that it provides an easier way to update or fix parts of the system.
+- Scalability it provides for new features that can be added without impacting the entire system.
+- Reusability, modules can be reused across different projects.
 A good example is a web application which might be divided into modules for user management, payment processing, and product catalog.
 
 Testing in Software Engineering:
@@ -86,26 +86,26 @@ Describe the different levels of software testing (unit testing, integration tes
 Levels of Software Testing:
 
 Unit Testing
-Involves testing individual components or units of code.
-For instance testing a single function in isolation.
+- Involves testing individual components or units of code.
+- For instance testing a single function in isolation.
 
 Integration Testing:
-Entails testing the interactions between integrated units or components.
-For example testing the interaction between a database and a web server.
+- Entails testing the interactions between integrated units or components.
+- For example testing the interaction between a database and a web server.
 
 System Testing:
-Encompasses testing the complete and integrated software system.
-Example of system testing would be end-to-end testing of an e-commerce application.
+- Encompasses testing the complete and integrated software system.
+- Example of system testing would be end-to-end testing of an e-commerce application.
 
 Acceptance Testing:
-Entails testing the system against user requirements and ensuring it meets business needs.
-For instance conducting a User Acceptance Testing before the product goes live.
+- Entails testing the system against user requirements and ensuring it meets business needs.
+- For instance conducting a User Acceptance Testing before the product goes live.
 
 Why is testing crucial in software development?
 Importance
-Quality Assurance-Ensures the software is reliable and meets requirements.
-Bug Detection-Identifies and fixes defects before deployment.
-User Satisfaction-Provides confidence that the software will perform as expected
+- Quality Assurance-Ensures the software is reliable and meets requirements.
+- Bug Detection-Identifies and fixes defects before deployment.
+- User Satisfaction-Provides confidence that the software will perform as expected
 
 Version Control Systems:
 
@@ -114,29 +114,29 @@ What are version control systems, and why are they important in software develop
 Version Control Systems (VCS) are tools that help manage changes to source code over time. They track modifications, allow multiple people to collaborate, and maintain historical versions of the code.
 
 Importance
-Collaboration-Enables multiple developers to work on the same project simultaneously.
-Backup and Recovery-Maintains a history of changes, allowing recovery of previous versions.
-Branching and Merging-Facilitates parallel development through branches.
+- Collaboration-Enables multiple developers to work on the same project simultaneously.
+- Backup and Recovery-Maintains a history of changes, allowing recovery of previous versions.
+- Branching and Merging-Facilitates parallel development through branches.
 
 Examples
-Git-Distributed VCS, supports branching and merging, widely used (GitHub, GitLab).
-Subversion-Centralized VCS, simpler model, suitable for smaller projects.
-Mercurial-Distributed VCS, similar to Git, known for ease of use.
+- Git-Distributed VCS, supports branching and merging, widely used (GitHub, GitLab).
+- Subversion-Centralized VCS, simpler model, suitable for smaller projects.
+- Mercurial-Distributed VCS, similar to Git, known for ease of use.
 
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 Role of a Software Project Manager
-Planning-Defining project scope, timeline, and resources.
-Team Management-Coordinating and leading the development team.
-Risk Management-Identifying and mitigating risks.
-Stakeholder Communication-Keeping stakeholders informed and managing expectations.
-Quality Assurance-Ensuring the project meets quality standards.
+- Planning-Defining project scope, timeline, and resources.
+- Team Management-Coordinating and leading the development team.
+- Risk Management-Identifying and mitigating risks.
+- Stakeholder Communication-Keeping stakeholders informed and managing expectations.
+- Quality Assurance-Ensuring the project meets quality standards.
 
 Challenges
-Resource Allocation-Ensuring adequate resources are available.
-Time Management-Keeping the project on schedule.
-Communication-Maintaining clear and effective communication among team members and stakeholders.
+- Resource Allocation-Ensuring adequate resources are available.
+- Time Management-Keeping the project on schedule.
+- Communication-Maintaining clear and effective communication among team members and stakeholders.
 
 Software Maintenance:
 
@@ -144,41 +144,41 @@ Define software maintenance and explain the different types of maintenance activ
 Software Maintenance involves modifying a software system after it has been deployed. Types of maintenance activities include:
 
 Corrective Maintenance
-Involves fixing bugs and defects.
-Example-Resolving a security vulnerability discovered post-deployment.
+- Involves fixing bugs and defects.
+- Example-Resolving a security vulnerability discovered post-deployment.
 
 Adaptive Maintenance
-Adapting software to new environments or requirements.
-Example-Updating a web application to support a new browser version.
+- Adapting software to new environments or requirements.
+- Example-Updating a web application to support a new browser version.
 
 Perfective Maintenance
-Enhancing functionality and performance.
-Example-Adding new features based on user feedback.
+- Enhancing functionality and performance.
+- Example-Adding new features based on user feedback.
 
 Preventive Maintenance
-Improving software maintainability and preventing future issues.
-Example-Refactoring code to improve readability and reduce technical debt.
+- Improving software maintainability and preventing future issues.
+- Example-Refactoring code to improve readability and reduce technical debt.
 
 Importance
-Longevity-Ensures the software remains functional and relevant over time.
-User Satisfaction-Keeps users satisfied by fixing issues and adding new features.
-Cost Efficiency-Prevents major failures and reduces the cost of major overhauls.
+- Longevity-Ensures the software remains functional and relevant over time.
+- User Satisfaction-Keeps users satisfied by fixing issues and adding new features.
+- Cost Efficiency-Prevents major failures and reduces the cost of major overhauls.
 
 Ethical Considerations in Software Engineering:
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 Ethical Issues
-Privacy-Handling user data responsibly and securely.
-Security-Protecting software from malicious attacks.
-Intellectual Property-Respecting copyrights and licenses.
-Transparency-Being honest about software capabilities and limitations.
-Bias and Fairness-Ensuring software does not reinforce biases or discriminate against users.
+- Privacy-Handling user data responsibly and securely.
+- Security-Protecting software from malicious attacks.
+- Intellectual Property-Respecting copyrights and licenses.
+- Transparency-Being honest about software capabilities and limitations.
+- Bias and Fairness-Ensuring software does not reinforce biases or discriminate against users.
 
 Ensuring Ethical Standards are adhhered to:
-Adhering to professional codes of ethics (e.g., ACM Code of Ethics).
-Providing ethics training to software engineers.
-Conducting regular reviews and audits to ensure ethical practices.
-Involving users in the design process to understand and respect their needs and concerns.
+- Adhering to professional codes of ethics (e.g., ACM Code of Ethics).
+- Providing ethics training to software engineers.
+- Conducting regular reviews and audits to ensure ethical practices.
+- Involving users in the design process to understand and respect their needs and concerns.
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.

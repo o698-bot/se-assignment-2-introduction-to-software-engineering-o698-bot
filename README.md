@@ -17,42 +17,42 @@ Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Phases of Software development lifecyle:-
-Requirements-Gathering and analyzing user needs and requirements.This can be achieved through conducting interviews and surveys to understand what features are needed.
+- Requirements-Gathering and analyzing user needs and requirements.This can be achieved through conducting interviews and surveys to understand what features are needed.
 
-Design- Creating architecture and design specifications based on requirements. It entails designing the system architecture, including data models and user interfaces.
+- Design- Creating architecture and design specifications based on requirements. It entails designing the system architecture, including data models and user interfaces.
 
-Implementation-Writing the code as per the design specification. Here developers write code using programming languages.
+- Implementation-Writing the code as per the design specification. Here developers write code using programming languages.
 
-Testing- Verifying and validating the software to ensure it meets the requirements and is free of defects.
+- Testing- Verifying and validating the software to ensure it meets the requirements and is free of defects.
 Some testing techniques to be employed are Performing unit testing, integration testing, system testing.
 
-Deployment- Releasing or rolling out of the software to production environments. For instance deploying a web application on a cloud server.
+- Deployment- Releasing or rolling out of the software to production environments. For instance deploying a web application on a cloud server.
 
-Maintenance-Providing ongoing support and improvements after deployment.It largely entails fixing bugs and adding new features based on user feedback.
+- Maintenance-Providing ongoing support and improvements after deployment.It largely entails fixing bugs and adding new features based on user feedback.
 
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Agile Model:
-Iterative and Incremental approach: Development is broken into small, iterative cycles or sprints.
-Flexibility: Easily accommodates changes in requirements.
-Customer Involvement: Continuous feedback from stakeholders.
-Examples: Scrum, Kanban.
+- Iterative and Incremental approach: Development is broken into small, iterative cycles or sprints.
+- Flexibility: Easily accommodates changes in requirements.
+- Customer Involvement: Continuous feedback from stakeholders.
+- Examples: Scrum, Kanban.
 
 Waterfall Model:
-Sequential approach: Development follows a strict sequence of phases.
-Documentation-Driven: Extensive documentation at each stage.
-Less Flexible: Difficult to make changes once a phase is completed.
-For instance you may a Traditional software projects with well-defined requirements.
+- Sequential approach: Development follows a strict sequence of phases.
+- Documentation-Driven: Extensive documentation at each stage.
+- Less Flexible: Difficult to make changes once a phase is completed.
+- For instance you may a Traditional software projects with well-defined requirements.
 
 Key Differences:
-Flexibility: Agile is more flexible, while Waterfall is more rigid.
-Risk Management: Agile manages risks by iterative cycles, while Waterfall manages risks by early planning.
-Customer Feedback: Agile involves continuous customer feedback, while Waterfall involves customer feedback primarily at the beginning and end.
+- Flexibility: Agile is more flexible, while Waterfall is more rigid.
+- Risk Management: Agile manages risks by iterative cycles, while Waterfall manages risks by early planning.
+- Customer Feedback: Agile involves continuous customer feedback, while Waterfall involves customer feedback primarily at the beginning and end.
 
 Scenarios:
-Agile: Suitable for projects with evolving requirements and where rapid delivery is crucial.
-Waterfall: Suitable for projects with well-defined requirements and where changes are minimal.
+- Agile: Suitable for projects with evolving requirements and where rapid delivery is crucial.
+- Waterfall: Suitable for projects with well-defined requirements and where changes are minimal.
 
 Requirements Engineering:
 
